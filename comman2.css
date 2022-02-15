@@ -1,0 +1,23 @@
+   body
+            {
+                color :red;
+                background-color:black;
+            }
+            table
+            {
+                border-style: dashed;
+                border-width: 2px;
+                border-color: darkorange;
+                font-size: 20px;
+                  color: white;
+                margin-top:20px;
+            }
+            div
+            {
+                height: 100%;
+                width: 100%;
+            }        
+#RetriveAllData{
+    background: black;
+    color: white;
+}
